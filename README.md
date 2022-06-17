@@ -32,5 +32,21 @@ Lot 3 - population $ Lot3 ▶️ statistically not similar
 
 ## Study Design: MechaCar vs Competition
 
+#### What metric or metrics are we going to test?
+Metrics will be about safety during the collusion. independent variables will be amount of steel used and tickness of rotor. dependent variable will be number of airbag that exploded.
+#### What is the null hypothesis or alternative hypothesis?
+H0 : The slope of the linear model is zero, or m = 0
+Ha : The slope of the linear model is not zero, or m ≠ 0
+
+#### What statistical test would you use to test the hypothesis? And why?
+We can use Multiole Linear Regression the reason is we have one dependent variable:airbag that exploded. and 2 different independent variable:tickness of rotor,amount of steel
+
+#### What data is needed to run the statistical test?
+In order to test the data we need collusion data such as model of the car, number of collusion,  number of aibag explasion, amoutn of steel that used in the car,  tickness of the rotor in the braking system.
+I
+
+
+
+
 
 
