@@ -20,8 +20,9 @@ A: Standart deviation indicated how data points tend to be close/far to its mean
 ## T-Tests on Suspension Coils
 ![image](https://user-images.githubusercontent.com/98247252/174222274-e53130ba-98a7-46ff-965a-e7d3054d0fcd.png)
 
-   
-
-
+- Our Significance level for T test is 0.05 percent. Which means if P-value is above 0.05, it means we can say that there that two means are statistically similar.
+Lot 1 - population $ Lot1 ▶️ statistically similar
+Lot 2 - population $ Lot2 ▶️ statistically similar
+Lot 3 - population $ Lot3 ▶️ statistically not similar
 
 
